@@ -1,0 +1,3 @@
+[submodule "burningmoth-chromelogger-php"]
+	path = burningmoth-chromelogger-php
+	url = ../../burningmoth/burningmoth-chromelogger-php.git
